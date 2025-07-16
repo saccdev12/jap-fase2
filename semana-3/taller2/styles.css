@@ -1,0 +1,56 @@
+/* Selector por ID */
+#header {
+    background-color: #1b3a57; /* Azul marino */
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+/* Selector por ID */
+#experiencia {
+    padding: 40px 20px;
+    background-color: #f5f7fa; /* Fondo claro pastel */
+    color: #333;
+    text-align: justify;
+    font-family: Arial;
+}
+
+/* Selector por clase */
+.titulo-principal {
+    font-size: 2.5em;
+    margin: 0;
+}
+
+/* Selector por clase */
+.subtitulo {
+    font-size: 1.2em;
+    color: #d1e0eb; /* Azul pastel claro */
+    margin-top: 10px;
+}
+
+/* Selector por clase */
+.section-title {
+    font-size: 1.8em;
+    color: #1b3a57;
+    margin-bottom: 15px;
+}
+
+/* Selector por clase */
+.imagen-perfil {
+    text-align: center;
+    margin: 40px 0;
+}
+
+.imagen-perfil img {
+    max-width: 350px;
+    height: auto;
+}
+
+/* Selector por clase */
+.footer {
+    background-color: #1b3a57;
+    color: white;
+    text-align: left;
+    padding: 20px;
+    font-size: 0.9em;
+}
